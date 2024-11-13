@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">MyZodiac</string>
+    <string name="FechaNacimiento">Fecha de Nacimiento:</string>
+    <string name="BotonAceptar">Aceptar</string>
+    <string name="hint">dd/MM/yyyy</string>
+    <string name="error"></string>
+
+    <string name="TienesxAnos">Tienes %1$d años</string>
+    <string name="EresSigno">Eres %1$s</string>
+</resources>
